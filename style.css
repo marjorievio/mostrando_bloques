@@ -1,0 +1,43 @@
+.container {
+    width: 1200px;
+    background-color: #d6d1b1;
+    margin: 0 auto;
+    padding-bottom: 20px;
+}
+
+.header {
+    width: 100%;
+    padding: 20px;
+    margin: 0 auto;
+}
+
+.header h1 {
+    display: inline-block;
+}
+
+.img-header {
+    background-color: white;
+    width: 150px;
+    height: 100px;
+    display: inline-block;
+}
+
+.row {
+    text-align: center;
+}
+
+    .row .img-blue {
+        background-color: #77b6ea;
+        border: 5px solid black;
+        padding: 20px;
+        width: 180px;
+        height: 180px;  
+    }
+
+    .row .img-pink {
+        background-color: #fc6471;
+        border: 5px solid black;
+        padding: 20px;
+        width: 180px;
+        height: 180px;  
+    }
